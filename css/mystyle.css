@@ -1,0 +1,42 @@
+.sixerslogo {
+    max-width: 150px;
+    margin-top: 10px;
+    margin-right: 10px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.playernameblue{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+}
+
+.playernamered{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: crimson;
+}
+
+.custom-background {
+    background-color: rgb(254, 182, 182);
+}
+
+.custom-backgroundblue {
+    background-color: blue;
+}
+
+.whiteword {
+    color: white;
+}
+
+.headingfont {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.custom-backgroundred{
+    background-color: crimson;
+}
+
+.tableauPlaceholder {
+    max-width: 1200px;
+}
